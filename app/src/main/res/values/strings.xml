@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SalesHelper</string>
+    <string name="launch">Lançamento</string>
+    <string name="code">Código</string>
+    <string name="amount">Quantidade</string>
+    <string name="value">Valor</string>
+    <string name="confirm">Confirmar</string>
+    <string name="list">Listar</string>
+    <string name="send">Enviar</string>
+</resources>
